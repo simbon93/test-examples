@@ -1,0 +1,14 @@
+{
+    "title": "Write like Proust",
+    "img": "https://raw.githubusercontent.com/iacolippo/test-examples/master/assets/signature.svg",
+    "description": "Write like one of the most influential authors of the 20th century.",
+    "X-Model": "orion-fr-v2",
+    "request": {"text": "C'était un temps que je connaissais ; j'eus la sensation et le pressentiment que le jour de l'An n'était pas un jour différent des autres, qu'il n'était pas le premier d'un monde nouveau",
+                "params": {
+                    "mode": "nucleus",
+                    "n_tokens": 50,
+                    "p": 0.9,
+                    "temperature": 1.
+                    }
+                },
+}
