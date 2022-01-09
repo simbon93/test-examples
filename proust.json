@@ -8,7 +8,7 @@
                     "mode": "nucleus",
                     "n_tokens": 50,
                     "p": 0.9,
-                    "temperature": 1.
+                    "temperature": 1.0
                     }
                 },
 }
